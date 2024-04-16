@@ -3,7 +3,7 @@
 # ai-prog-4
 ## setup
 ```
-$ conda
+$ conda create --name ai-prog-4 python=3.10
 ```
 * a
 * b
