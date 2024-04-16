@@ -2,9 +2,9 @@
 
 # ai-prog-4
 ## setup
-'''
+```
 $ conda
-'''
+```
 * a
 * b
 
